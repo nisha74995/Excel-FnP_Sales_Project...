@@ -4,7 +4,7 @@
 The FNP Sales Analysis Dashboard provides a comprehensive and interactive view of the company’s sales performance across multiple dimensions, including months, product categories, customer occasions, order volumes, and revenue trends. This dashboard enables business leaders to make informed decisions by clearly identifying high-performing products, seasonal demand patterns, and customer purchasing behaviors.
 
 
-**1. Overall Business Performance**
+   **1. Overall Business Performance**
 
 •Total Revenue: ₹3,520,984
 
@@ -16,7 +16,8 @@ The FNP Sales Analysis Dashboard provides a comprehensive and interactive view o
 
 These metrics indicate stable customer demand with healthy average spending, providing strong revenue generation across the year.
 
-**2. Revenue Insights**
+
+   **2. Revenue Insights**
 
 **a. Monthly Revenue Trend**
 
@@ -43,7 +44,7 @@ Key occasions driving revenue:
 These insights confirm that cultural and emotional events significantly influence customer spending.
 
 
-**3. Product Performance**
+   **3. Product Performance**
 
 **a. Top 5 Products by Revenue**
 
@@ -54,7 +55,7 @@ Products such as Magnum Set, Quia Gift, Dolore Gift, Harum Pack, and Dessertum B
 Items like Bhayagra, Dibbargh, Hard Kaver, Impal, and Norith Dumdum lead in total orders. High order count combined with moderate revenue suggests these are popular low- to mid-price items that drive customer engagement.
 
 
-**4. Customer Behavior Insights**
+   **4. Customer Behavior Insights**
 
 **a. Revenue by Hour**
 
@@ -79,7 +80,7 @@ Customers spend the most during:
 This confirms the emotionally driven nature of the gifting business and highlights peak revenue opportunities.
 
 
-**5. Key Business Recommendations**
+   **5. Key Business Recommendations**
 
 •Increase Inventory & Promotions during February and August to capitalize on peak seasonal demand.
 
@@ -92,11 +93,12 @@ This confirms the emotionally driven nature of the gifting business and highligh
 •Improve logistics strategies to reduce the 5.53-day average delivery time, enhancing customer satisfaction.
 
 
-**📸 Dashboard Preview**
+   **📸 Dashboard Preview**
+<img width="1826" height="824" alt="image" src="https://github.com/user-attachments/assets/187f4b17-42db-4827-b81a-2caa01bfa2a9" />
 
 
 
-**📌 Conclusion**
+   **📌 Conclusion**
 
 The FNP Sales Analysis Dashboard delivers clear, actionable insights into revenue drivers, seasonal patterns, and customer behaviors. It helps leadership teams monitor performance, optimize product strategies, enhance marketing planning, and improve supply chain operations.
 Overall, the analysis emphasizes that occasion-based gifting, premium product categories, and seasonal demand peaks play a crucial role in the company’s revenue success.
