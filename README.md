@@ -95,9 +95,8 @@ This confirms the emotionally driven nature of the gifting business and highligh
 
    **📸 Dashboard Preview**
 
-<img width="1832" height="808" alt="image" src="https://github.com/user-attachments/assets/94d88b89-cfb8-44de-a320-396dc0d0fa0f" />
-
-
+(<img width="1807" height="785" alt="image" src="https://github.com/user-attachments/assets/f53df1e7-a8ef-4b06-ad13-f33971862365" />
+)
 
    **📌 Conclusion**
 
